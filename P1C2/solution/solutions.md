@@ -4,7 +4,7 @@ In this exercise, you will perform some basic operations using the Python Intera
 
 ## Steps
 
-### Step 1 :In the Python Shell, print "Happy Birthday" to the console.
+### Step 1 : In the Python Shell, print "Happy Birthday" to the console.
 ```python
 >>> print("Happy Birthday")
 Happy Birthday
