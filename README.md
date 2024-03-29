@@ -36,32 +36,32 @@ A folder for the exercise solution.
 
 ### P2C1
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P2C1/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P2C1/solution)
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P2/P2C1/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P2/P2C1/solution)
 
 ### P2C2
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P2C2/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P2C2/solution)
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P2/P2C2/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P2/P2C2/solution)
 
 ### P2C3
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P2C3/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P2C3/solution)
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P2/P2C3/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P2/P2C3/solution)
 
 ## Exercises P3
 
 ### P3C1
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P3C1/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P3C1/solution)
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P3/P3C1/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P3/P3C1/solution)
 
 ### P3C2
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P3C2/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P3C2/solution)
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P3/P3C2/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P3/P3C2/solution)
 
 ### P3C3
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P3C3/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P1/P3C3/solution)
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P3/P3C3/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6902811-learn-python-basics/tree/main/P3/P3C3/solution)
