@@ -12,6 +12,6 @@ def test_weekly_salary():
 
 def test_hourly_wage():
     weekly_salary = 1000
-    hourly_wage = 10
+    hourly = 10
     expected_output = 100
-    assert hourly_wage(weekly_salary, hourly_wage) == expected_output, "The function hourly_salary does not correctly divide the weekly salary by the number of hours worked per week."
+    assert hourly_wage(weekly_salary, hourly) == expected_output, "The function hourly_salary does not correctly divide the weekly salary by the number of hours worked per week."
