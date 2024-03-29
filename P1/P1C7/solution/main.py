@@ -2,13 +2,13 @@
 fruits = {"apple": "red", "banana": "yellow", "orange": "orange"} 
 
 # 2. Add the key "kiwi" 
-fruits["kiwi"] = "vert"
+fruits["kiwi"] = "green"
 
 # 3. Access to the value corresponding to the key "banana"
 couleur_banane = fruits["banana"] 
 
 # 4. Modification of the value associated with the key "apple"
-fruits["apple"] = "vert" 
+fruits["apple"] = "green" 
 
 # 5. Deletion of the key "orange"
 del fruits["banana"] 
