@@ -1,5 +1,5 @@
 # Creating variables nom and age
-name = "Jean"
+name = "John"
 age = 25
 
 # Displaying the sentence with the variables
