@@ -1,4 +1,4 @@
-from main import fruits, couleur_banane
+from main import fruits, color_banana
 
 def test_fruits_dictionary():
   assert isinstance(fruits, dict), "fruits is not a dictionary"
@@ -27,4 +27,4 @@ def test_final_dictionary_content():
 
 def test_banana_color_extract():
     expected_value = "yellow"
-    assert couleur_banane == expected_value, "The color of the banana was not extracted: yellow"
+    assert color_banana == expected_value, "The color of the banana was not extracted: yellow"
