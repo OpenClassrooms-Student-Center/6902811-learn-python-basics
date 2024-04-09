@@ -8,9 +8,9 @@ Suppose you are an HR manager and you need to create a file containing the salar
 
 | name  | hours_worked |
 | ------------- |:-------------:|
-| Pierre Durand      | **36**     |
-| Paul Dupont      | **41**     |
-| Edouard Gentil      | **40**     |
+| Tavin Quickshadow      | **36**     |
+| Elara Sunleaf      | **41**     |
+| Mirelle Starwhisper      | **40**     |
 
 **Tip**: Create an `extract()` function that returns the data from the `input.csv` file.
 
@@ -20,8 +20,8 @@ Suppose you are an HR manager and you need to create a file containing the salar
 
 | name  | salary |
 | ------------- |:-------------:|
-| Pierre Durand      | **540**     |
-| Paul Dupont      | **615**     |
-| Edouard Gentil      | **600**     |
+| Tavin Quickshadow      | **540**     |
+| Elara Sunleaf      | **615**     |
+| Mirelle Starwhisper      | **600**     |
 
 **Tip**: Create a first function `transform()` which will be responsible for **transforming** the data and creating a new container with all the **new data**. And then a `load()` function that will load the new data into the `output.csv` file.
