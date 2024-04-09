@@ -5,7 +5,7 @@ fruits = {"apple": "red", "banana": "yellow", "orange": "orange"}
 fruits["kiwi"] = "green"
 
 # 3. Access to the value corresponding to the key "banana"
-couleur_banane = fruits["banana"] 
+color_banana = fruits["banana"] 
 
 # 4. Modification of the value associated with the key "apple"
 fruits["apple"] = "green" 
