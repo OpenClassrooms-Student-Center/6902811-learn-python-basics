@@ -11,5 +11,5 @@ You need to create a program that calculates an employee's hourly wage based on 
    * **Ask** the user to **input** their *annual salary*.
    * **Ask** the user to **input** the *number of hours worked per week*.
    * **Call** the previously created functions to calculate the corresponding hourly wage.
-   * **Display** the result in the format: `"Your hourly wage is XX euros"`.
+   * **Display** the result in the format: `"Your hourly wage is XX dollars"`.
 
