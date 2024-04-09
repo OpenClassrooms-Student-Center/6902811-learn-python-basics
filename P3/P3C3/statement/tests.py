@@ -10,11 +10,11 @@ def test_output():
         reader = csv.DictReader(file)
         for data in reader:
             match data["name"]:
-                case "Pierre Durand":
+                case "Tavin Quickshadow":
                     assert data["salary"] == '540'
-                case "Paul Dupont":
+                case "Elara Sunleaf":
                     assert data["salary"] == '615'
-                case "Edouard Gentil":
+                case "Mirelle Starwhisper":
                     assert data["salary"] == '600'
                 case _:
                     assert False
