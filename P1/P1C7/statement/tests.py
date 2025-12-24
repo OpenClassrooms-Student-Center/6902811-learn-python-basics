@@ -1,11 +1,11 @@
-from main import fruits, color_banana
+from main import fruits, banana_color
 
 def test_fruits_dictionary():
   assert isinstance(fruits, dict), "fruits is not a dictionary"
 
-def test_banana_removed():
-    element_to_check = "banana"
-    assert element_to_check not in fruits, "The key `banana was not properly deleted."
+def test_orange_removed():
+    element_to_check = "orange"
+    assert element_to_check not in fruits, "The key `orange was not properly deleted."
 
 def test_apple_value():
     expected_value = "green"
@@ -20,11 +20,11 @@ def test_kiwi_in_dictionary():
 def test_final_dictionary_content():
     assert "apple" in fruits
     assert "kiwi" in fruits
-    assert "orange" in fruits
+    assert "banana" in fruits
     assert fruits["apple"] == "green"
     assert fruits["kiwi"] == "green"
-    assert fruits["orange"] == "orange"
+    assert fruits["banana"] == "yellow"
 
 def test_banana_color_extract():
     expected_value = "yellow"
-    assert color_banana == expected_value, "The color of the banana was not extracted: yellow"
+    assert banana_color == expected_value, "The color of the banana was not extracted: yellow"
